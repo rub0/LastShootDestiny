@@ -1,0 +1,10 @@
+diff a/Assets/Standard Assets/Scripts/Net/MovementController.cs b/Assets/Standard Assets/Scripts/Net/MovementController.cs	(rejected hunks)
+@@ -183,4 +183,8 @@
+         }
+     }
+ 
++    public Vector3 getMomentum() {
++        return _momentum;
++    }
++
+ }

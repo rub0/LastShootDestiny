@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: daa58e770c6f79b41bd0a2f20209fe63
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Hada2TopJump1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 852
+        width: 155
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopJump2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 854
+        width: 159
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopJump3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 852
+        width: 145
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopJump4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 850
+        width: 152
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopShoot1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 677
+        width: 156
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopShoot2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 676
+        width: 164
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopShoot3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 677
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopHit1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 494
+        width: 155
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopHit2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 496
+        width: 148
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopIdle1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 314
+        width: 156
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2TopIdle2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 311
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Hada2BottomIdle1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 190
+        width: 79
+        height: 104
+      alignment: 9
+      pivot: {x: .559115171, y: .894163847}
+    - name: Hada2BottomIdle2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 81
+        height: 98
+      alignment: 9
+      pivot: {x: .589686275, y: .865347087}
+    - name: Hada2BottomJump1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 540
+        width: 76
+        height: 101
+      alignment: 9
+      pivot: {x: .561448753, y: .905871689}
+    - name: Hada2BottomJump2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 539
+        width: 90
+        height: 92
+      alignment: 9
+      pivot: {x: .49423489, y: .899445236}
+    - name: Hada2BottomJump3
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 559
+        width: 69
+        height: 101
+      alignment: 9
+      pivot: {x: .552099228, y: .892452419}
+    - name: Hada2BottomJump4
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 579
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: .565451503, y: .897437394}
+    - name: Hada2BottomJump5
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 554
+        width: 65
+        height: 105
+      alignment: 9
+      pivot: {x: .536250174, y: .907666028}
+    - name: Hada2BottomJump6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 429
+        width: 82
+        height: 91
+      alignment: 9
+      pivot: {x: .466476798, y: .90133667}
+    - name: Hada2BottomWalk1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 266
+        width: 75
+        height: 101
+      alignment: 9
+      pivot: {x: .557596862, y: .89659375}
+    - name: Hada2BottomWalk2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 268
+        width: 71
+        height: 101
+      alignment: 9
+      pivot: {x: .665932238, y: .923811197}
+    - name: Hada2BottomWalk3
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 269
+        width: 60
+        height: 97
+      alignment: 9
+      pivot: {x: .617812097, y: .941287935}
+    - name: Hada2BottomWalk4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 265
+        width: 74
+        height: 94
+      alignment: 9
+      pivot: {x: .500000834, y: .937334418}
+    - name: Hada2BottomWalk4
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 264
+        width: 79
+        height: 103
+      alignment: 9
+      pivot: {x: .738606513, y: .942270517}
+    - name: Hada2BottomWalk5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 135
+        width: 62
+        height: 107
+      alignment: 9
+      pivot: {x: .582058609, y: .892705917}
+  spritePackingTag: 
+  userData: 

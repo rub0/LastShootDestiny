@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 48e38765ba6e7414fa1676ba2c403ec5
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Explosion-640x384_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 303
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 282
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 276
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 270
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 261
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 131
+        width: 126
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 19
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 25
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 23
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 130
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 130
+        width: 131
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 131
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Explosion-640x384_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
